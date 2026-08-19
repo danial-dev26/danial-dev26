@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c++" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 <p>
