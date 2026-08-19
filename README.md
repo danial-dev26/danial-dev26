@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Danial
 
-<!--
-**danial-dev26/danial-dev26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c++" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+---
+
+### 🚀 What I Do
+
+* 🌐 Frontend development
+* 🐍 Backend development with Django
+* 💻 C++ programming
+* 📱 Responsive web design
+* 🎨 Modern UI development
