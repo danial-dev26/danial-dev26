@@ -26,4 +26,4 @@
 * 🐍 Backend development with Django
 * 💻 C++ programming
 * 📱 Responsive web design
-* 🎨 Modern UI development
+
